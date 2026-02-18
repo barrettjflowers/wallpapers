@@ -1,9 +1,8 @@
 # Examples
-
-![Screenshot 2025-10-28 at 12 16 11 PM](https://github.com/user-attachments/assets/230507d6-bffa-4b63-bb54-4eb135224d35)
-
-![Screenshot 2025-10-28 at 12 17 16 PM](https://github.com/user-attachments/assets/aacd9b39-dc65-4d5f-8553-dd4abb1236dd)
-
-![Screenshot 2025-10-28 at 12 17 34 PM](https://github.com/user-attachments/assets/4ac08d91-2ac0-467d-b426-b8ca32db3369)
-
-![Screenshot 2025-10-28 at 12 18 24 PM](https://github.com/user-attachments/assets/9329f10f-8846-4daa-bead-d1051f98a46d)
+<img width="2408" height="1602" alt="image" src="https://github.com/user-attachments/assets/dfd7b0e3-2fa6-42e3-9310-ecfeb265e87b" />
+<img width="2572" height="1602" alt="image" src="https://github.com/user-attachments/assets/679a0076-e3eb-49b8-b3f8-20d8950d9e5c" />
+<img width="2694" height="1380" alt="image" src="https://github.com/user-attachments/assets/7fb16ba5-9cbc-45af-897f-8de04a8a956c" />
+<img width="2710" height="1510" alt="image" src="https://github.com/user-attachments/assets/24e89b89-7f84-4361-906c-78c10d5f425b" />
+<img width="2702" height="1512" alt="image" src="https://github.com/user-attachments/assets/14869b40-458a-420b-b62d-aec7ae7a1fcb" />
+<img width="2424" height="1616" alt="image" src="https://github.com/user-attachments/assets/3349e6d2-fd02-401f-889d-a2896217d1df" />
+<img width="2700" height="1502" alt="image" src="https://github.com/user-attachments/assets/4b36bdc8-5995-4202-973b-17f478631e3f" />
